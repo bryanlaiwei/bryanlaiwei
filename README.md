@@ -1,6 +1,9 @@
 <h1 align="center">Hey, I'm Bryan Wei</h1>
 
-Computer science at the University of Waterloo, class of 2029. I build things I'm interested in. Feel free to look through the repos.
+## 😎 About Me
+
+- 💯 I build things I'm interested in. Feel free to look through the repos.
+- 🎓 University of Waterloo '29
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-334155?style=for-the-badge)](https://bryanwei.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-wei-23bb552a9/)
 
