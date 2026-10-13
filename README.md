@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Bryan!</h1>
 
-- 🎓 CS @ UWaterloo '29
-- 💡 I enjoy turning thoughts into something I can build in my free time. Feel free to look through my repos and see if anything interests you!
+🎓 CS @ UWaterloo '29
+💡 I enjoy turning thoughts into something I can build in my free time. Feel free to look through my repos and see if anything interests you!
 
 ## Stack
 
