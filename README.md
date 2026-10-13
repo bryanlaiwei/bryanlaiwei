@@ -19,7 +19,10 @@
 
 ## Connect with me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-334155?style=for-the-badge)](https://bryanwei.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-wei-23bb552a9/)
-&emsp;
-l76wei<!-- -->@uwaterloo.ca · bwei2398<!-- -->@gmail.com
+<p>
+  <a href="https://bryanwei.vercel.app/"><img alt="Portfolio" align="absmiddle" src="https://img.shields.io/badge/Portfolio-334155?style=for-the-badge"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/bryan-wei-23bb552a9/"><img alt="LinkedIn" align="absmiddle" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  &nbsp;&nbsp;&nbsp;
+  l76wei<!-- -->@uwaterloo.ca · bwei2398<!-- -->@gmail.com
+</p>
