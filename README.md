@@ -1,4 +1,4 @@
-# Bryan Wei
+<h1 align="center">Hey, I'm Bryan Wei</h1>
 
 Computer science at the University of Waterloo, class of 2029. I build things I'm interested in. Feel free to look through the repos.
 
