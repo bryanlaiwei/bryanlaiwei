@@ -1,7 +1,5 @@
 <h1 align="center">Hey, I'm Bryan Wei</h1>
 
-## About
-
 - 💯 I build things I'm interested in. Feel free to look through the repos.
 - 🎓 University of Waterloo '29
 
@@ -21,9 +19,14 @@
 
 ## Connect with me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-334155?style=for-the-badge)](https://bryanwei.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-wei-23bb552a9/)
-
-<br>
-
-l76wei<!-- -->@uwaterloo.ca · bwei2398<!-- -->@gmail.com
+<table>
+  <tr>
+    <td>
+      <a href="https://bryanwei.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-334155?style=for-the-badge"></a>
+      <a href="https://www.linkedin.com/in/bryan-wei-23bb552a9/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    </td>
+    <td align="right">
+      l76wei<!-- -->@uwaterloo.ca · bwei2398<!-- -->@gmail.com
+    </td>
+  </tr>
+</table>
