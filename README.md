@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Bryan!</h1>
 
-- 💯 I build things I'm interested in. Feel free to look through the repos.
-- 🎓 University of Waterloo '29
+- 🎓 CS @ UWaterloo '29
+- 💡 I enjoy turning thoughts into something I can build in my free time. Feel free to look through my repos and see if anything interests you!
 
 ## Stack
 
