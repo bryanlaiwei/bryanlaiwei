@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Bryan Wei</h1>
+<h1 align="center">Hey, I'm Bryan!</h1>
 
 - 💯 I build things I'm interested in. Feel free to look through the repos.
 - 🎓 University of Waterloo '29
