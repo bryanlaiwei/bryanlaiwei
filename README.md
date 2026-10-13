@@ -5,12 +5,6 @@
 - 💯 I build things I'm interested in. Feel free to look through the repos.
 - 🎓 University of Waterloo '29
 
-## Links
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-334155?style=for-the-badge)](https://bryanwei.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-wei-23bb552a9/)
-
-l76wei@uwaterloo.ca · bwei2398@gmail.com
-
 ## Stack
 
 **Languages**
@@ -24,3 +18,12 @@ l76wei@uwaterloo.ca · bwei2398@gmail.com
 **Data and tools**
 
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-64748b?style=flat&logo=mysql&logoColor=white"> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-64748b?style=flat&logo=mongodb&logoColor=white"> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-64748b?style=flat&logo=sqlite&logoColor=white"> <img alt="AWS" src="https://img.shields.io/badge/AWS-64748b?style=flat&logo=amazonwebservices&logoColor=white"> <img alt="Supabase" src="https://img.shields.io/badge/Supabase-64748b?style=flat&logo=supabase&logoColor=white"> <img alt="Convex" src="https://img.shields.io/badge/Convex-64748b?style=flat&logo=convex&logoColor=white"> <img alt="Tinybird" src="https://img.shields.io/badge/Tinybird-64748b?style=flat&logo=tinybird&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-64748b?style=flat&logo=git&logoColor=white"> <img alt="Linux" src="https://img.shields.io/badge/Linux-64748b?style=flat&logo=linux&logoColor=white">
+
+## Connect with me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-334155?style=for-the-badge)](https://bryanwei.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-wei-23bb552a9/)
+
+<br>
+
+l76wei<!-- -->@uwaterloo.ca · bwei2398<!-- -->@gmail.com
