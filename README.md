@@ -20,4 +20,4 @@ I'm a Computer Science student at the University of Waterloo 🎓, and I enjoy t
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-334155?style=for-the-badge)](https://bryanwei.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-wei-23bb552a9/)
 
-l76wei<!-- -->@uwaterloo.ca · bwei2398<!-- -->@gmail.com
+l76wei<!-- -->@uwaterloo.ca · bryanlaiwei<!-- -->@outlook.com
