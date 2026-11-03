@@ -10,7 +10,7 @@ I'm a Computer Science student at the University of Waterloo 🎓, and I enjoy t
 
 **Frameworks**
 
-<img alt="React" src="https://img.shields.io/badge/React-64748b?style=flat&logo=react&logoColor=white"> <img alt="React Native" src="https://img.shields.io/badge/React%20Native-64748b?style=flat&logo=react&logoColor=white"> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-64748b?style=flat&logo=nextdotjs&logoColor=white"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-64748b?style=flat&logo=nodedotjs&logoColor=white"> <img alt="Express" src="https://img.shields.io/badge/Express-64748b?style=flat&logo=express&logoColor=white"> <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-64748b?style=flat&logo=springboot&logoColor=white">
+<img alt="React" src="https://img.shields.io/badge/React-64748b?style=flat&logo=react&logoColor=white"> <img alt="React Native" src="https://img.shields.io/badge/React%20Native-64748b?style=flat&logo=react&logoColor=white"> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-64748b?style=flat&logo=nextdotjs&logoColor=white"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-64748b?style=flat&logo=nodedotjs&logoColor=white"> <img alt="Express" src="https://img.shields.io/badge/Express-64748b?style=flat&logo=express&logoColor=white"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-64748b?style=flat&logo=fastapi&logoColor=white"> <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-64748b?style=flat&logo=springboot&logoColor=white">
 
 **Data and tools**
 
