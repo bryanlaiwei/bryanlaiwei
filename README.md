@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at the University of Waterloo 🎓, and I enjoy turning thoughts into something I can build in my own time 💡 — feel free to look through my repos and see if anything interests you!
 
-## Stack
+## Stack I use
 
 **Languages**
 
